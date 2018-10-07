@@ -1,0 +1,49 @@
+shared {
+  facet {
+  }
+
+  graph {
+    edge {
+    }
+
+    vertex {
+    }
+
+    tree {
+      node {
+      }
+
+      branch-view {
+      }
+
+      level-view {
+      }
+    }
+  }
+
+  layer {
+  }
+
+  list {
+    item {
+    }
+  }
+
+  swimlanes {
+    timeline {
+      time-block {
+      }
+    }
+  }
+
+  table {
+    cell {
+    }
+
+    column-view {
+    }
+
+    row-view {
+    }
+  }
+}
